@@ -1,0 +1,8 @@
+{
+  "name": "Remix LV8 2.0: Ecos da Dobra - Simulador RPG \u0026 Gamebook Brutal",
+  "description": "Simulador brutal de RPG do sistema LV8 e fantasia primal com criação de ficha totalmente configurável no estilo planilha, combate tático com IA (selvagem/estratégica e auto-play), gamebook narrativo gerado por IA com rolagem d6 explosivo com pífio, e exportação de PDF e saves em JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
